@@ -1,0 +1,35 @@
+MODEL EVALUATION REPORT
+========================
+
+Model: Custom_KNN_Test
+Date: 2025-09-03 07:31:30
+Total Samples: 20
+
+PERFORMANCE METRICS
+------------------
+Accuracy: 1.0000 (100.00%)
+Precision: 1.0000
+Recall: 1.0000
+F1-Score: 1.0000
+
+PREDICTIONS
+-----------
+Correct: 20
+Incorrect: 0
+Success Rate: 100.00%
+
+CONFUSION MATRIX
+----------------
+[[10  0]
+ [ 0 10]]
+
+CLASSIFICATION REPORT
+--------------------
+              precision    recall  f1-score   support
+
+ girl$1234$B       1.00      1.00      1.00        10
+rose$28684$A       1.00      1.00      1.00        10
+
+    accuracy                           1.00        20
+   macro avg       1.00      1.00      1.00        20
+weighted avg       1.00      1.00      1.00        20
